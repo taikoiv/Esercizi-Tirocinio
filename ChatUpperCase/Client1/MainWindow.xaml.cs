@@ -13,6 +13,9 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+using System.Threading;
+using Newtonsoft.Json;
+
 namespace Client1
 {
     /// <summary>
@@ -26,6 +29,23 @@ namespace Client1
         public MainWindow()
         {
             InitializeComponent();
+            l = new Listener(this);
+            p = new Producer();
+            Thread t = new Thread(new ThreadStart(l.listen));
+            t.Start();
+        }
+        
+        public void updateText(string txt)
+        {
+            App.Current.Dispatcher.Invoke((Action)delegate
+            {
+                this.uppercased.Text = txt;
+            });
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            p.send(JsonConvert.SerializeObject(this.uppercasemi.Text));
         }
     }
 }

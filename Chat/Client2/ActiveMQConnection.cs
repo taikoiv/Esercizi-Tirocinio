@@ -12,7 +12,7 @@ namespace Chat
     public class ActiveMQConnection
     {
         //URI TO ACTIVE MQ
-        public const string uri = "activemq:tcp://100.103.0.175:61616";
+        public const string uri = "activemq:tcp://localhost:61616";
         //NMS INTERFACES (NOT REAL ACTIVEMQ IMPLEMENTATION)
         public IConnectionFactory connectionFactory;
         public IConnection c;

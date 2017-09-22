@@ -9,7 +9,7 @@ using Apache.NMS.ActiveMQ;
 
 namespace Client1
 {
-    class ActiveMQBaseConnector
+    abstract class ActiveMQBaseConnector
     {
         protected const string uri = "tcp://localhost:61616";
         protected IConnectionFactory factory;

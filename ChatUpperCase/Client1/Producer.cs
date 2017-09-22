@@ -16,7 +16,7 @@ namespace Client1
             IDestination destQ = session.GetDestination(queueName);
             using(IMessageProducer  producer= session.CreateProducer(destQ))
             {
-                IMessage toSend = producer.CreateObjectMessage(message);
+                IMessage toSend = producer.CreateTextMessage(message);
                 producer.Send(toSend);
             }
         }

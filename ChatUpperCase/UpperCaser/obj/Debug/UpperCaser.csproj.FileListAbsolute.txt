@@ -1,0 +1,15 @@
+C:\Users\alexg_000\Source\Repos\Tirocinio\Esercizi-Tirocinio\ChatUpperCase\UpperCaser\bin\Debug\UpperCaser.exe.config
+C:\Users\alexg_000\Source\Repos\Tirocinio\Esercizi-Tirocinio\ChatUpperCase\UpperCaser\bin\Debug\UpperCaser.exe
+C:\Users\alexg_000\Source\Repos\Tirocinio\Esercizi-Tirocinio\ChatUpperCase\UpperCaser\bin\Debug\UpperCaser.pdb
+C:\Users\alexg_000\Source\Repos\Tirocinio\Esercizi-Tirocinio\ChatUpperCase\UpperCaser\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\alexg_000\Source\Repos\Tirocinio\Esercizi-Tirocinio\ChatUpperCase\UpperCaser\bin\Debug\Apache.NMS.dll
+C:\Users\alexg_000\Source\Repos\Tirocinio\Esercizi-Tirocinio\ChatUpperCase\UpperCaser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexg_000\Source\Repos\Tirocinio\Esercizi-Tirocinio\ChatUpperCase\UpperCaser\bin\Debug\Apache.NMS.pdb
+C:\Users\alexg_000\Source\Repos\Tirocinio\Esercizi-Tirocinio\ChatUpperCase\UpperCaser\bin\Debug\Apache.NMS.xml
+C:\Users\alexg_000\Source\Repos\Tirocinio\Esercizi-Tirocinio\ChatUpperCase\UpperCaser\bin\Debug\Apache.NMS.ActiveMQ.pdb
+C:\Users\alexg_000\Source\Repos\Tirocinio\Esercizi-Tirocinio\ChatUpperCase\UpperCaser\bin\Debug\Apache.NMS.ActiveMQ.xml
+C:\Users\alexg_000\Source\Repos\Tirocinio\Esercizi-Tirocinio\ChatUpperCase\UpperCaser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexg_000\Source\Repos\Tirocinio\Esercizi-Tirocinio\ChatUpperCase\UpperCaser\obj\Debug\UpperCaser.csprojResolveAssemblyReference.cache
+C:\Users\alexg_000\Source\Repos\Tirocinio\Esercizi-Tirocinio\ChatUpperCase\UpperCaser\obj\Debug\UpperCaser.csproj.CoreCompileInputs.cache
+C:\Users\alexg_000\Source\Repos\Tirocinio\Esercizi-Tirocinio\ChatUpperCase\UpperCaser\obj\Debug\UpperCaser.exe
+C:\Users\alexg_000\Source\Repos\Tirocinio\Esercizi-Tirocinio\ChatUpperCase\UpperCaser\obj\Debug\UpperCaser.pdb
